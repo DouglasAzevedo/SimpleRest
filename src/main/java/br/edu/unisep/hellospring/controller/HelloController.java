@@ -19,6 +19,7 @@ public class HelloController {
         System.out.println("Message received: ");
         System.out.println(message.getDestination());
         System.out.println(message.getContent());
+
     }
 
 }
